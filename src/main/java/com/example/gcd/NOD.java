@@ -1,4 +1,4 @@
-package com.example.lesson3;
+package com.example.gcd;
 
 import java.util.Scanner;
 

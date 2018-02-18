@@ -1,4 +1,4 @@
-package com.example.lesson2;
+package com.example.fibonacci;
 
 import java.util.Scanner;
 import java.util.ArrayList;

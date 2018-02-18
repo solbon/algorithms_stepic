@@ -1,4 +1,4 @@
-package com.example.lesson3;
+package com.example.gcd;
 
 import static java.lang.Math.max;
 import static java.lang.Math.min;

@@ -1,4 +1,4 @@
-package com.example.lesson2;
+package com.example.fibonacci;
 
 /**
  * Created by solina on 18.02.2018.
